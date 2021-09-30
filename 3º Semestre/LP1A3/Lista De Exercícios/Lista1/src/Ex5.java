@@ -1,5 +1,8 @@
 ﻿import java.util.Scanner;
 
+/* 5 Faça um algoritmo que leia um número positivo e inteiro N, some todos os números inteiros de 1 a N, 
+e mostre o resultado na tela. */
+
 public class Ex5 {
     public static void main(String[] args) throws Exception {
         
