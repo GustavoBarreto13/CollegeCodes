@@ -10,7 +10,6 @@ public class Ex9 {
         
         int[] num = new int[3];
         
-
         for(int i = 0; i < 3; i++){
             System.out.println("Digite o " + (i+1) +"º número inteiro: ");
             num[i] = n.nextInt();
