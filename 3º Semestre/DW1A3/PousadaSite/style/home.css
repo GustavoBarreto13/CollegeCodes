@@ -67,3 +67,39 @@ footer {
     padding: 1px;
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 }
+
+table, td, th {
+    border: 1px solid black; 
+    border-collapse: collapse;
+
+}
+
+.tableTarifas {
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 20px;
+}
+
+.tableTarifas th {
+    background-color: #547200;
+    color: #000000;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+.tableTarifas td {
+    background-color: #f0f0f0;
+}
+
+div, form{
+    padding: 5px;
+    text-align: left;
+}
+
+.reservas {
+    text-align: left;
+    padding-bottom: 20px;
+}
